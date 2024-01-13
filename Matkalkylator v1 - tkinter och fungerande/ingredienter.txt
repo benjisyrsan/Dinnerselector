@@ -1,0 +1,320 @@
+-potatis
+position 0
+pris 40 kr
+energi 400 kcal
+
+-morot
+position 0
+pris 20 kr
+energi 200 kcal
+
+-pasta
+position 7
+pris 20 kr
+energi 200 kcal
+
+-grädde
+position 5
+pris 20 kr
+energi 200 kcal
+
+-tomatkross
+position 7
+pris 20 kr
+energi 200 kcal
+
+-scharlottenlök
+position 0
+pris 0 kr
+energi 0 kcal
+
+-vitlök
+position 0
+pris 0 kr
+energi 0 kcal
+
+-paprika
+position 0
+pris 0 kr
+energi 0 kcal
+
+-chili
+position 0
+pris 0 kr
+energi 0 kcal
+
+-spiskummin
+position 8
+pris 0 kr
+energi 0 kcal
+
+-paprikapulver
+position 8
+pris 0 kr
+energi 0 kcal
+
+-kalvfond
+position 8
+pris 0 kr
+energi 0 kcal
+
+-squash
+position 1
+pris 0 kr
+energi 0 kcal
+
+-rödlök
+position 0
+pris 0 kr
+energi 0 kcal
+
+-fetaost
+position 4
+pris 0 kr
+energi 0 kcal
+
+-oliver
+position 8
+pris 0 kr
+energi 0 kcal
+
+-champinjon
+position 1
+pris 0 kr
+energi 0 kcal
+
+-valnötter
+position 9
+pris 0 kr
+energi 0 kcal
+
+-couscous
+position 8
+pris 0 kr
+energi 0 kcal
+
+-smör
+position 5
+pris 0 kr
+energi 0 kcal
+
+-vetemjöl
+position 8
+pris 0 kr
+energi 0 kcal
+
+-bladspenat
+position 2
+pris 0 kr
+energi 0 kcal
+
+-gullök
+position 0
+pris 0 kr
+energi 0 kcal
+
+-ägg
+position 5
+pris 0 kr
+energi 0 kcal
+
+-ost
+position 8
+pris 0 kr
+energi 0 kcal
+
+-tomatpure
+position 8
+pris 0 kr
+energi 0 kcal
+
+-köttbuljong
+position 8
+pris 0 kr
+energi 0 kcal
+
+-oregano
+position 8
+pris 0 kr
+energi 0 kcal
+
+-vita_bönor
+position 8
+pris 0 kr
+energi 0 kcal
+
+-kajenpeppar
+position 8
+pris 0 kr
+energi 0 kcal
+
+-kyckling
+position 4
+pris 0 kr
+energi 0 kcal
+
+-nötter
+position 8
+pris 0 kr
+energi 0 kcal
+
+-kycklingkebab
+position 4
+pris 0 kr
+energi 0 kcal
+
+-kikärtor
+position 7
+pris 0 kr
+energi 0 kcal
+
+-sallad
+position 1
+pris 0 kr
+energi 0 kcal
+
+-gurka
+position 1
+pris 0 kr
+energi 0 kcal
+
+-tomat
+position 1
+pris 0 kr
+energi 0 kcal
+
+-yoghurt
+position 5
+pris 0 kr
+energi 0 kcal
+
+-tortilla
+position 7
+pris 0 kr
+energi 0 kcal
+
+-ingefära
+position 2
+pris 0 kr
+energi 0 kcal
+
+-bockhornsklöver
+position 8
+pris 0 kr
+energi 0 kcal
+
+-lasagnplattor
+position 7
+pris 0 kr
+energi 0 kcal
+
+-blandfärs
+position 4
+pris 0 kr
+energi 0 kcal
+
+-mjöl
+position 8
+pris 0 kr
+energi 0 kcal
+
+-mjölk
+position 5
+pris 0 kr
+energi 0 kcal
+
+-broccoli
+position 4
+pris 0 kr
+energi 0 kcal
+
+-bacon
+position 4
+pris 0 kr
+energi 0 kcal
+
+-lingonsylt
+position 8
+pris 0 kr
+energi 0 kcal
+
+-köttfärs
+position 4
+pris 0 kr
+energi 0 kcal
+
+-vin
+position 10
+pris 0 kr
+energi 0 kcal
+
+-selleri
+position 1
+pris 0 kr
+energi 0 kcal
+
+-socker
+position 10
+pris 0 kr
+energi 0 kcal
+
+-köttbullar
+position 4
+pris 0 kr
+energi 0 kcal
+
+-spagetti
+position 7
+pris 0 kr
+energi 0 kcal
+
+-veggofärs
+position 0
+pris 0 kr
+energi 0 kcal
+
+-zucchini
+position 1
+pris 0 kr
+energi 0 kcal
+
+-spenat
+position 5
+pris 0 kr
+energi 0 kcal
+
+-purjolök
+position 1
+pris 0 kr
+energi 0 kcal
+
+-balsamico
+position 8
+pris 0 kr
+energi 0 kcal
+
+-honung
+position 9
+pris 0 kr
+energi 0 kcal
+
+-citronjuice
+position 8
+pris 0 kr
+energi 0 kcal
+
+-sambaloelek
+position 8
+pris 0 kr
+energi 0 kcal
+
+-grönsaksbuljong
+position 8
+pris 0 kr
+energi 0 kcal
+
+-haricortsverts
+position 5
+pris 0 kr
+energi 0 kcal
+
